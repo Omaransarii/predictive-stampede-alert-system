@@ -31,5 +31,5 @@ A real-time computer vision and crowd-physics analysis engine that shifts crowd 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/predictive-stampede-alert-system.git](https://github.com/YOUR_USERNAME/predictive-stampede-alert-system.git)
+   git clone [https://github.com/Omaransarii/predictive-stampede-alert-system.git](https://github.com/Omaransarii/predictive-stampede-alert-system.git)
    cd predictive-stampede-alert-system
