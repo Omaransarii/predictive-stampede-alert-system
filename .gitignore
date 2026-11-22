@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Heavy Media & Model Weights
+*.mp4
+*.avi
+*.pt
